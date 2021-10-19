@@ -21,8 +21,8 @@
       };
       // Define data object with login info
       var loginData = {
-        "accountName": account,
-        "password": password,
+        "accountName": kingbre27@gmail.com,
+        "password": Apple2020,
         "rememberMe": true,
         "trustTokens": []
       };
